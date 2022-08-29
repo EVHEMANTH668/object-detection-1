@@ -1,0 +1,1 @@
+ rect(objects[0].x,objects[0].y,objects[0].width,objects[0].height);
